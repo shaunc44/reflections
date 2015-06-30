@@ -10,8 +10,9 @@ What value do you think it offers?
 
 	It prepares documents for committing; and gives you a chance to evaluate your files before you attempt to make one logical change.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Use git status to check the staging area for commits
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
