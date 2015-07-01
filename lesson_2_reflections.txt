@@ -14,8 +14,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Use git status to check the staging area for commits
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized?
+
+	You could create a branch for every change that you make.
+
+How would branches help?
+
+	Branches would show the changes
 
 How do the diagrams help you visualize the branch structure?
 
