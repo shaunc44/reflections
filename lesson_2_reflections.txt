@@ -30,5 +30,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Merging of the two branches adds any new code and retains code that exists in both branches, but deletes code that has been deleted in one or both branches.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Automatic merging may merge unwanted code.  Auto merge would save time and prevent data loss.
